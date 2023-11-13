@@ -4,11 +4,11 @@ A small project for virtual audio modifications
 <br>*UI example from v.1.2.5-beta-1 build*
 
 ## HOW TO INSTALL
-> Head over to the ***[Releases tab](https://github.com/DigitalTheDemon/Audigitize/releases)*** and download the latest version.
-> Run the installer & follow the steps.
+> Head over to the ***[Releases tab](https://github.com/DigitalTheDemon/Audigitize/releases)*** and download the latest version. <br>
+> Run the installer & follow the steps. <br>
 ### Bare Installer
-> Download the Bare zip.
-> unzip the file.
+> Download the Bare zip. <br>
+> unzip the file. <br>
 > Run the Audigitize.exe file (Amtivirus may trigger)
 
 ## BUILDING MODS (UNFINISHED)
